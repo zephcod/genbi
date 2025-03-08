@@ -7,7 +7,7 @@ import Head from "next/head";
 export default function BuilderInformatics(){
     return(
         <Box>
-            <Head children={undefined}>
+            <Head>
                 <title>Builder Informatics</title>
                 <meta property="og:title" content="My page title" key="title" />
             </Head>
